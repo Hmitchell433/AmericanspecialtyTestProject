@@ -1,0 +1,5 @@
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\TestProject.DAL\obj\Debug\net6.0\TestProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\TestProject.DAL\obj\Debug\net6.0\TestProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\TestProject.DAL\obj\Debug\net6.0\TestProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\TestProject.DAL\obj\Debug\net6.0\TestProject.DAL.AssemblyInfo.cs
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\TestProject.DAL\obj\Debug\net6.0\TestProject.DAL.csproj.CoreCompileInputs.cache

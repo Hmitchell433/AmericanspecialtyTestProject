@@ -1,0 +1,7 @@
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\AmerianSpecialtyTestProject\obj\Debug\net6.0\TestProject.API.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\AmerianSpecialtyTestProject\obj\Debug\net6.0\TestProject.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\AmerianSpecialtyTestProject\obj\Debug\net6.0\TestProject.API.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\AmerianSpecialtyTestProject\obj\Debug\net6.0\TestProject.API.AssemblyInfo.cs
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\AmerianSpecialtyTestProject\obj\Debug\net6.0\TestProject.API.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\AmerianSpecialtyTestProject\obj\Debug\net6.0\TestProject.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dev\Desktop\AmerianSpecialtyTestProject\AmerianSpecialtyTestProject\obj\Debug\net6.0\TestProject.API.MvcApplicationPartsAssemblyInfo.cache

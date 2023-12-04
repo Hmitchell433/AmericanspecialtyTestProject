@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lS/pxRxjvQMsdC8zYIu9mHP2Qu6U9T1UM2RRuqjsC6iaq92FAuJ7XgMt2hnQ/C4K1KmWc+yhIs5J9wwJjnx17w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev\\Desktop\\AmerianSpecialtyTestProject\\AmerianSpecialtyTestProject\\TestProject.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\hangfire.core\\1.8.6\\hangfire.core.1.8.6.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
